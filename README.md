@@ -9,4 +9,4 @@
 * and take it to your preferred text editor
 
 # link to live website
-* https://ammar04.github.io/triangleTracker/
+* https://ammar04.github.io/quiz-board/.
